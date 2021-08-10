@@ -1,0 +1,17 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "Lecture of wetube.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:sum-in-e/lecture-wetube.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
